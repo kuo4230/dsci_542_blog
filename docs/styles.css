@@ -1,1 +1,5 @@
 /* css styles */
+.content {
+    max-width: 100%;
+    overflow-x: hidden;
+  }
