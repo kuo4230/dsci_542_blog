@@ -1,0 +1,10 @@
+---
+title: "The AI Doctor is In: How NLP is Changing Healthcare Search Forever"
+author: "Jessica Kuo"
+date: "2025-01-18"
+categories: [article]
+image: "robot.jpg"
+---
+
+![](robot.jpg)
+
