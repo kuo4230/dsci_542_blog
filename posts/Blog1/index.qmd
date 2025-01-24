@@ -72,7 +72,7 @@ making reliable healthcare information accessible to people around the world,
 regardless of their native language. 
 These advancements are streamlining healthcare searches, 
 making them faster, more accurate, 
-and more inclusive.Key Technologies Powering the Transformation
+and more inclusive.
 
 # Benefits of NLP in Healthcare Search
 
@@ -87,7 +87,7 @@ offering a seamless and interactive experience that keeps users satisfied.
 Most importantly, NLP empowers patients by delivering personalized, 
 trustworthy information, enabling them to make well-informed decisions 
 about their health and well-being. 
-Together, these advantages highlight the transformative potential of NLP in healthcare.Challenges and Limitations
+Together, these advantages highlight the transformative potential of NLP in healthcare.
 
 # Challenges of Implementing NLP in Healthcare
 
